@@ -1,6 +1,6 @@
 document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
 <!-- S8 — ENCERRAMENTO -->
-<section class="slide w-full min-h-screen relative overflow-hidden flex flex-col bg-white" id="s8" data-i="9">
+<section class="slide w-full min-h-screen relative overflow-hidden flex flex-col bg-white" id="s8" data-i="10">
   <div class="absolute top-0 left-0 right-0 h-[72px] flex items-center justify-between px-[34px] z-10 overflow-visible">
     <img src="assets/images/logotipo_branco.png" alt="Habii.tech" style="height:150px;width:auto;display:block;padding-left:0;">
     <span class="text-[11px] font-bold tracking-[.1em] uppercase text-[#8FA398]">Obrigado</span>
@@ -12,7 +12,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
       <div class="absolute inset-0 z-[1]" style="background:linear-gradient(to top, rgba(12,20,16,.75) 0%, rgba(12,20,16,.15) 55%)"></div>
       <div class="absolute bottom-10 left-10 right-10 z-[2] pointer-events-none">
         <h3 class="text-[26px] font-black text-white tracking-[-0.02em] mb-[6px]">Habii.tech</h3>
-        <p class="text-[13px] text-white/50">Curitiba — Paraná, Brasil</p>
+        <p class="text-[13px] text-white/50">Curitiba, Paraná, Brasil</p>
       </div>
     </div>
     <!-- right -->

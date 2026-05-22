@@ -27,12 +27,12 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           </div>
         </div>
         <div class="px-7 py-[22px] flex-1 bg-white">
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Visitantes — Listar, Cadastrar, Editar, Deletar</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Liberações — Listar e Cadastrar (visitas/prestador)</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Encomendas — Listar minhas encomendas</div>
+          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Visitantes: Listar, Cadastrar, Editar, Deletar</div>
+          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Liberações: Listar e Cadastrar (visitas/prestador)</div>
+          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Encomendas: Listar minhas encomendas</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Histórico de encomendas</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Reclamações — Cadastrar, Responder, Excluir</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Notificações — Listagem (encomendas + alertas)</div>
+          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Reclamações: Cadastrar, Responder, Excluir</div>
+          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Notificações: Listagem (encomendas + alertas)</div>
           <div class="si flex items-center gap-3 text-[15px] text-[#374840] py-[9px] font-medium leading-[1.35]">
             <span class="flex-1">Disparo de notificações via WhatsApp/Email (sugestão)</span>
             <span class="flex-shrink-0 text-[11px] font-bold tracking-[.04em] bg-[#FFF7E6] text-[#B45309] border border-[#F6D28A] rounded-full px-[10px] py-[3px] whitespace-nowrap">+ R$ 4.800</span>
@@ -53,11 +53,11 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
         </div>
         <div class="px-7 py-[22px] flex-1 bg-white">
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Usuários — Listar, Cadastrar, Editar, Deletar</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Moradores — Listar, Cadastrar, Editar, Deletar</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Liberações — Listar (visitas e prestadores)</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Encomendas — Listar, Cadastrar, Editar</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Reclamações — Listar e Responder</div>
-          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium leading-[1.35]">Notificações — Criar e disparar</div>
+          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Moradores: Listar, Cadastrar, Editar, Deletar</div>
+          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Liberações: Listar (visitas e prestadores)</div>
+          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Encomendas: Listar, Cadastrar, Editar</div>
+          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium border-b border-[#E8F0EB] leading-[1.35]">Reclamações: Listar e Responder</div>
+          <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium leading-[1.35]">Notificações: Criar e disparar</div>
           <div class="si flex items-baseline gap-3 text-[15px] text-[#374840] py-[9px] font-medium leading-[1.35]">Relatórios</div>
         </div>
       </div>

@@ -122,7 +122,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
     <!-- Badge inferior -->
     <div style="display:inline-flex;align-items:center;gap:10px;background:rgba(53,224,122,.08);border:1px solid rgba(53,224,122,.25);border-radius:40px;padding:10px 22px;">
       <div style="width:8px;height:8px;background:#35E07A;border-radius:50%;box-shadow:0 0 8px #35E07A;flex-shrink:0;"></div>
-      <span style="font-size:13px;color:rgba(255,255,255,.6);font-weight:500;">Você está aqui — ao fechar a proposta, iniciamos o <strong style="color:#fff;font-weight:700;">Protótipo Navegável</strong></span>
+      <span style="font-size:13px;color:rgba(255,255,255,.6);font-weight:500;">Você está aqui. Ao fechar a proposta, iniciamos o <strong style="color:#fff;font-weight:700;">Protótipo Navegável</strong></span>
     </div>
 
   </div>

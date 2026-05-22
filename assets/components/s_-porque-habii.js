@@ -37,7 +37,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1DB954" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 4 23 10 17 10"/><polyline points="1 20 1 14 7 14"/><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/></svg>
         </div>
         <div style="font-size:15px;font-weight:700;color:#fff;letter-spacing:-.01em;line-height:1.3;">Metodologia ágil</div>
-        <div style="font-size:13px;color:rgba(255,255,255,.5);line-height:1.62;">Sprints semanais, entregas incrementais e backlog priorizado — o produto evolui rápido, com visibilidade total do progresso.</div>
+        <div style="font-size:13px;color:rgba(255,255,255,.5);line-height:1.62;">Sprints semanais, entregas incrementais e backlog priorizado. O produto evolui rápido, com visibilidade total do progresso.</div>
       </div>
 
       <!-- Card 2 — Stack consolidada -->
@@ -46,7 +46,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1DB954" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M21 12c0 1.66-4 3-9 3s-9-1.34-9-3"/><path d="M3 5v14c0 1.66 4 3 9 3s9-1.34 9-3V5"/></svg>
         </div>
         <div style="font-size:15px;font-weight:700;color:#fff;letter-spacing:-.01em;line-height:1.3;">Stack dos maiores apps do mundo</div>
-        <div style="font-size:13px;color:rgba(255,255,255,.5);line-height:1.62;">React Native, Expo, Node.js e PostgreSQL — a mesma base tecnológica do Instagram, Shopify e Discord. Madura, escalável e com ecossistema vasto.</div>
+        <div style="font-size:13px;color:rgba(255,255,255,.5);line-height:1.62;">React Native, Expo, Node.js e PostgreSQL: a mesma base tecnológica do Instagram, Shopify e Discord. Madura, escalável e com ecossistema vasto.</div>
       </div>
 
       <!-- Card 3 — Cliente no processo -->
@@ -55,7 +55,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1DB954" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
         </div>
         <div style="font-size:15px;font-weight:700;color:#fff;letter-spacing:-.01em;line-height:1.3;">Você dentro do desenvolvimento</div>
-        <div style="font-size:13px;color:rgba(255,255,255,.5);line-height:1.62;">O cliente valida cada sprint. Nenhuma funcionalidade vai longe sem aprovação — o produto é construído junto, não entregue como surpresa.</div>
+        <div style="font-size:13px;color:rgba(255,255,255,.5);line-height:1.62;">O cliente valida cada sprint. Nenhuma funcionalidade vai longe sem aprovação. O produto é construído junto, não entregue como surpresa.</div>
       </div>
 
       <!-- Card 4 — Design e usabilidade -->
@@ -73,7 +73,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#1DB954" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
         </div>
         <div style="font-size:15px;font-weight:700;color:#fff;letter-spacing:-.01em;line-height:1.3;">Equipe 100% própria</div>
-        <div style="font-size:13px;color:rgba(255,255,255,.5);line-height:1.62;">Sem terceirização. Designers, desenvolvedores e PMs dedicados ao seu projeto — do primeiro wireframe ao deploy em produção.</div>
+        <div style="font-size:13px;color:rgba(255,255,255,.5);line-height:1.62;">Sem terceirização. Designers, desenvolvedores e PMs dedicados ao seu projeto, do primeiro wireframe ao deploy em produção.</div>
       </div>
 
       <!-- Card 6 — Suporte pós-lançamento -->

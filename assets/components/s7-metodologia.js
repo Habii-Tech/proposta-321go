@@ -14,7 +14,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
         <div class="text-eyebrow uppercase text-brand-dark mb-3">Como entregamos</div>
         <h2 class="text-h2 text-ink m-0">Tecnologia de ponta.<br><em class="text-brand-soft not-italic">Processo próprio.</em></h2>
       </div>
-      <p class="text-body text-ink-muted max-w-[400px] pb-1 flex-shrink-0">O mesmo stack das grandes — Facebook, Netflix, Uber — guiado por um método ágil exclusivo: a <strong class="text-ink font-semibold">Metodologia Habii</strong>.</p>
+      <p class="text-body text-ink-muted max-w-[400px] pb-1 flex-shrink-0">O mesmo stack de grandes como Facebook, Netflix e Uber, guiado por um método ágil exclusivo: a <strong class="text-ink font-semibold">Metodologia Habii</strong>.</p>
     </div>
 
     <!-- ░░ BLOCO 1 — POR QUE A HABII / STACK ░░ -->
@@ -61,7 +61,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
             <span class="w-[5px] h-[5px] bg-brand rounded-full block"></span>O que é a Metodologia Habii
           </div>
           <h3 class="text-h3 text-white mb-[14px]">Sprints semanais.<br><em class="text-brand-soft not-italic">Entrega contínua.</em></h3>
-          <p class="text-body-sm text-white/70 mb-[10px]">Baseada em <strong class="text-white font-semibold">práticas ágeis</strong>, com sprints semanais ou quinzenais alinhadas ao cronograma — um processo de desenvolvimento <strong class="text-white font-semibold">flexível e adaptativo</strong>.</p>
+          <p class="text-body-sm text-white/70 mb-[10px]">Baseada em <strong class="text-white font-semibold">práticas ágeis</strong>, com sprints semanais ou quinzenais alinhadas ao cronograma, resultando em um processo de desenvolvimento <strong class="text-white font-semibold">flexível e adaptativo</strong>.</p>
           <p class="text-body-sm text-white/55">Resultado: um produto que evolui de forma contínua e se adapta às demandas reais do negócio.</p>
         </div>
         <div class="flex flex-col gap-[10px]">
@@ -80,7 +80,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
             </div>
             <div>
               <div class="text-eyebrow uppercase text-brand mb-[4px]">02 · Ambiente de testes</div>
-              <div class="text-body-sm text-white/75">A cada sprint, disponibilizamos <strong class="text-white font-semibold">acesso à aplicação em tempo real</strong> — você acompanha o produto sendo construído.</div>
+              <div class="text-body-sm text-white/75">A cada sprint, disponibilizamos <strong class="text-white font-semibold">acesso à aplicação em tempo real</strong> para que você acompanhe o produto sendo construído.</div>
             </div>
           </div>
           <div class="bg-white/[.04] border border-white/[.08] rounded-[12px] p-[14px_18px] flex items-start gap-[14px]">

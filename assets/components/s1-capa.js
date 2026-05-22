@@ -17,7 +17,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
         <span class="w-[5px] h-[5px] bg-[#1DB954] rounded-full block"></span>Proposta Comercial · 2026
       </div>
       <h1 class="text-[clamp(52px,6vw,82px)] font-black leading-[.95] tracking-[-0.04em] text-white mb-6">Proposta<br><em class="text-[#1DB954] not-italic">Comercial</em><br><span class="text-white/20"> Belo Vale</span></h1>
-      <p class="text-[17px] text-white/45 leading-[1.72] max-w-[460px] mb-[52px]">Desenvolvimento de <strong class="text-white/75 font-semibold">aplicativo mobile + painel administrativo web</strong> para o condomínio <strong class="text-white/75 font-semibold">Fazendinhas Belo Vale — Juiz de Fora/MG</strong></p>
+      <p class="text-[17px] text-white/45 leading-[1.72] max-w-[460px] mb-[52px]">Desenvolvimento de <strong class="text-white/75 font-semibold">aplicativo mobile + painel administrativo web</strong> para o condomínio <strong class="text-white/75 font-semibold">Fazendinhas Belo Vale, em Juiz de Fora/MG</strong></p>
     </div>
     <!-- Phone mockup — iPhone style -->
     <div style="display:flex; justify-content:center; align-items:center; position:relative; z-index:5;">

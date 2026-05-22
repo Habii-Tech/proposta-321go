@@ -40,6 +40,17 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           </div>
         </div>
       </div>
+      <a href="https://www.figma.com/design/jZFwJeWhH715IeENnAIKQr/Untitled?node-id=0-1&t=zHp4k6oz3RYohRYq-1" target="_blank" rel="noopener noreferrer" class="mt-8 inline-flex items-center gap-[10px] px-5 py-[13px] rounded-[14px] border border-[#DDE8E2] bg-white hover:bg-[#F0FDF4] hover:border-[#BBF7D0] transition-colors w-fit group">
+        <svg width="18" height="18" viewBox="0 0 38 57" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M19 28.5A9.5 9.5 0 1 1 28.5 19 9.5 9.5 0 0 1 19 28.5Z" fill="#1ABCFE"/>
+          <path d="M0 47.5A9.5 9.5 0 0 1 9.5 38H19v9.5A9.5 9.5 0 0 1 0 47.5Z" fill="#0ACF83"/>
+          <path d="M19 0v19h9.5a9.5 9.5 0 1 0 0-19H19Z" fill="#FF7262"/>
+          <path d="M0 9.5a9.5 9.5 0 0 0 9.5 9.5H19V0H9.5A9.5 9.5 0 0 0 0 9.5Z" fill="#F24E1E"/>
+          <path d="M0 28.5A9.5 9.5 0 0 0 9.5 38H19V19H9.5A9.5 9.5 0 0 0 0 28.5Z" fill="#FF7262"/>
+        </svg>
+        <span class="text-[13px] font-semibold text-[#374840] group-hover:text-[#158A3E] transition-colors">Ver protótipo no Figma</span>
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-[#8FA398] group-hover:text-[#158A3E] transition-colors"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+      </a>
     </div>
     <!-- right -->
     <div class="s4b-right flex items-center justify-center relative overflow-hidden" style="background:linear-gradient(160deg,#F0FDF4 0%,#DCFCE7 100%);">
