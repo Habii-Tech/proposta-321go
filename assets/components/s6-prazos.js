@@ -40,10 +40,10 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           </div>
         </div>
         <div style="flex:1;background:#fff;border:1px solid #D1DDD6;border-radius:20px;padding:24px 26px;display:flex;flex-direction:column;justify-content:space-between;">
-          <div style="font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#35E07A;">Garantia pós-entrega</div>
+          <div style="font-size:10px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#2A2E2C;">Garantia pós-entrega</div>
           <div>
             <div style="display:flex;align-items:baseline;gap:8px;margin-top:10px;">
-              <span style="font-size:44px;font-weight:900;color:#35E07A;letter-spacing:-.03em;line-height:1;">3</span>
+              <span style="font-size:44px;font-weight:900;color:#2A2E2C;letter-spacing:-.03em;line-height:1;">3</span>
               <span style="font-size:15px;font-weight:600;color:#9A9A9A;">meses</span>
             </div>
             <div style="font-size:12.5px;color:#9A9A9A;margin-top:6px;">Cobertura total de correções</div>

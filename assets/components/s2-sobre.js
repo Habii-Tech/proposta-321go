@@ -14,17 +14,17 @@ document.getElementById("slides-container").insertAdjacentHTML(
       <h2 class="text-[clamp(36px,4vw,54px)] font-black leading-none tracking-[-0.03em] text-[#0C1410] mb-5">Transformamos<br><em class="text-[#6EBF8B] not-italic">ideias em produto.</em></h2>
       <p class="text-[16px] text-[#5C6E64] leading-[1.78] mb-[18px]">A <strong class="text-[#1F2B23] font-semibold">Habii.tech</strong> é especializada em desenvolvimento de aplicativos mobile e web para empresas de todos os portes. Nos comprometemos com <strong class="text-[#1F2B23] font-semibold">alta qualidade</strong>, <strong class="text-[#1F2B23] font-semibold">eficiência</strong> e <strong class="text-[#1F2B23] font-semibold">satisfação do usuário</strong> em cada entrega.</p>
       <p class="text-[16px] text-[#5C6E64] leading-[1.78] mb-[18px]">Confie seu projeto a quem leva a sério o desenvolvimento de apps, com <strong class="text-[#1F2B23] font-semibold">expertise, confiança e excelência</strong>.</p>
-      <div class="mt-8 bg-[#F0FDF4] border border-[#BBF7D0] rounded-[20px] p-[22px_26px] flex items-center gap-5">
-        <div class="text-[44px] font-black text-[#158A3E] tracking-[-0.04em] flex-shrink-0 leading-none">30%</div>
-        <div class="text-[14px] text-[#374840] leading-[1.65]">
-          Apenas <strong class="text-[#0C1410] font-bold">30% dos projetos de software</strong> finalizam com sucesso. Nossos processos existem para colocar você nesse grupo.
-          <div style="margin-top:10px; padding-top:10px; border-top:1px solid #BBF7D0; display:flex; flex-direction:column; gap:4px;">
-            <div style="font-size:11px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:#6EBF8B; margin-bottom:2px;">Referências</div>
-            <div style="font-size:11.5px; color:#5C6E64; line-height:1.5;">📄 <strong style="color:#374840;">Standish Group CHAOS Report</strong>: taxa de sucesso de projetos de software.</div>
-            <div style="font-size:11.5px; color:#5C6E64; line-height:1.5;">📄 <strong style="color:#374840;">McKinsey & Oxford University</strong>: apenas 16,2% dos grandes projetos atingem metas de prazo, custo e qualidade.</div>
-          </div>
-        </div>
-      </div>
+<!--      <div class="mt-8 bg-[#F0FDF4] border border-[#BBF7D0] rounded-[20px] p-[22px_26px] flex items-center gap-5">-->
+<!--        <div class="text-[44px] font-black text-[#158A3E] tracking-[-0.04em] flex-shrink-0 leading-none">30%</div>-->
+<!--        <div class="text-[14px] text-[#374840] leading-[1.65]">-->
+<!--          Apenas <strong class="text-[#0C1410] font-bold">30% dos projetos de software</strong> finalizam com sucesso. Nossos processos existem para colocar você nesse grupo.-->
+<!--          <div style="margin-top:10px; padding-top:10px; border-top:1px solid #BBF7D0; display:flex; flex-direction:column; gap:4px;">-->
+<!--            <div style="font-size:11px; font-weight:700; letter-spacing:.06em; text-transform:uppercase; color:#6EBF8B; margin-bottom:2px;">Referências</div>-->
+<!--            <div style="font-size:11.5px; color:#5C6E64; line-height:1.5;">📄 <strong style="color:#374840;">Standish Group CHAOS Report</strong>: taxa de sucesso de projetos de software.</div>-->
+<!--            <div style="font-size:11.5px; color:#5C6E64; line-height:1.5;">📄 <strong style="color:#374840;">McKinsey & Oxford University</strong>: apenas 16,2% dos grandes projetos atingem metas de prazo, custo e qualidade.</div>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
     </div>
     <!-- right -->
     <div class="relative overflow-hidden border-l border-[#DDE8E2]">
