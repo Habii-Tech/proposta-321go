@@ -112,6 +112,11 @@ html { scroll-snap-type: y mandatory; scroll-behavior: smooth; overflow-y: scrol
     page-break-after: auto;
   }
 
+  /* Slide de obrigado: não faz parte do PDF */
+  #s10 {
+    display: none !important;
+  }
+
   /* ── Remove hover/transitions que não fazem sentido em PDF ── */
   .sc,
   .s4b-feature,
