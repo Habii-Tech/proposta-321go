@@ -25,7 +25,7 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
       </div>
       <div class="text-[11px] font-bold tracking-[.1em] uppercase text-[#158A3E] mb-[14px]">Por onde começar</div>
       <h2 class="text-[clamp(36px,4vw,54px)] font-black leading-none tracking-[-0.03em] text-[#0C1410] mb-5">App Motoboy<br><em class="text-[#6EBF8B] not-italic">primeiro.</em></h2>
-      <p class="text-[16px] text-[#5C6E64] leading-[1.78] mb-8 max-w-[400px]">Priorizamos o marketplace de motoboys e lojistas — atende a demanda imediata, gera receita desde o primeiro dia e valida o modelo antes de escalar.</p>
+      <p class="text-[16px] text-[#5C6E64] leading-[1.78] mb-8 max-w-[400px]">Priorizamos o marketplace de motoboys e lojistas — atende a demanda imediata e valida o modelo antes de escalar.</p>
 
       <!-- lista de motivos -->
       <div class="flex flex-col gap-3">
@@ -45,15 +45,6 @@ document.getElementById('slides-container').insertAdjacentHTML('beforeend', `
           <div>
             <div class="text-[13px] font-bold text-[#1B5E20]">Time-to-market mais curto</div>
             <div class="text-[11.5px] text-[#5C6E64] mt-[2px] leading-[1.4]">Escopo focado permite lançamento mais rápido no mercado</div>
-          </div>
-        </div>
-        <div class="flex items-center gap-[14px] px-[18px] py-[14px] bg-[#F0FDF4] border border-[#BBF7D0] rounded-[14px]">
-          <div class="w-[38px] h-[38px] flex-shrink-0 bg-gradient-to-br from-[#4CAF50] to-[#1B5E20] rounded-[10px] flex items-center justify-center shadow-[0_4px_12px_rgba(27,94,32,.25)]">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
-          </div>
-          <div>
-            <div class="text-[13px] font-bold text-[#1B5E20]">Monetização clara desde o início</div>
-            <div class="text-[11.5px] text-[#5C6E64] mt-[2px] leading-[1.4]">Mensalidade para lojistas e/ou taxa por anúncio de vaga</div>
           </div>
         </div>
       </div>
